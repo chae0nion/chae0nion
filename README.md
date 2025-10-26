@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chae0nion
-- 👀 I’m interested in object detection and motion planning
+- 👀 I’m interested in ml security..?
 
 <!---
 chae0nion/chae0nion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
